@@ -1,0 +1,14 @@
+INDEX VERSION 1.130+/Users/awe/proj/software/practice/java/.metadata/.plugins/org.eclipse.jdt.core
+1926341717.index
+2794500660.index
+144986304.index
+3537383144.index
+67821307.index
+4046509043.index
+3921697711.index
+1986547950.index
+1924484980.index
+188381433.index
+3162527191.index
+1800745695.index
+3862684928.index

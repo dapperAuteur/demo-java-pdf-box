@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springbootdemo"/>
+<aop-project name="complete"/>
+<aop-project name="initial"/>
+<aop-project name="BuildingRESTServices"/>
+</aop-reference-model>

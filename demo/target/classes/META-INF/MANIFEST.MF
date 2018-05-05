@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: awe
+Implementation-Vendor-Id: com.mbl
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/i130
+Created-By: Maven Integration for Eclipse
+

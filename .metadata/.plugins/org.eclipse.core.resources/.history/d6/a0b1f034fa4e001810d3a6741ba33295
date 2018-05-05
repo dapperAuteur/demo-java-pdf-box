@@ -1,0 +1,5 @@
+package com.awe.BuildingRESTServices.bookmarks;
+
+public class UserNotFoundException {
+
+}
